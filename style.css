@@ -54,3 +54,11 @@ h2 {
     font-weight: bold;
     unicode-bidi: isolate;
 }
+.problema{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 5%;
+    min-height: 80vh;
+    gap: 30px;
+}
