@@ -73,5 +73,10 @@ h2 {
 .problema-paragrafo{
     font-size: 1.2rem;
     margin-bottom: 30px;
-    color: #7f8c8d;
+    color: #137433e9;
+}
+ .prolema-imagem{
+    flex: 1;
+    display: flex;
+    justify-content: center;
 }
